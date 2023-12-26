@@ -84,3 +84,4 @@ blad_delta_hat = as.vector(blad_theta[3])
 
 DF_emp = delta_hat/blad_delta_hat
 DF_emp
+aa
